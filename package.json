@@ -1,0 +1,9 @@
+{
+    "name": "koqog",
+    "version": "66.58.537",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "puppeteer-core": "^23.0.0"
+    }
+}
